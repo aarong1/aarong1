@@ -23,6 +23,7 @@ repo            | What is it
 RshinyHelpers   | R package
 TCD_Ising_Model | Course project
 Geospatial      | Postcode shapefiles, ni
+covid_ABM       | Agent model, IDM
 
 
 _Best Aaron_
