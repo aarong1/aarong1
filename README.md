@@ -5,13 +5,16 @@ Data repo
 - Check out the RshinyHelpers package for #rstats users that accumulates helpful shiny div elements and css helpers that 
 I use only once or twice a shiny app.  Also contains misc data functions that I find intuitive but dont fit any tidy workflow.
 
-- Install the package using. It is not on CRAN.
+- It is not available on CRAN. Install the package using
+
 `if(!require(devtools)) install.packages('devtools')
 devtools::install_github('aarong1/RshinyHelpers')`
 
 and the functions globally
 
 `library(Rpack)`
+
+
 
 *Due to my own mistake the git repo is miss named from the R package.*
 
