@@ -10,7 +10,7 @@ I use only once or twice a shiny app.  Also contains misc data functions that I 
 `if(!require(devtools)) install.packages('devtools')
 devtools::install_github('aarong1/RshinyHelpers')`
 
-and the functions globally
+and load the functions globally
 
 `library(Rpack)`
 
@@ -22,8 +22,7 @@ repo            | What is it
 -------------   | -------------
 RshinyHelpers   | R package
 TCD_Ising_Model | Course project
-Geospatial      | Postcode shapefiles, 
-                |   ni
+Geospatial      | Pc shapefiles,ni
 covid_ABM       | Agent model, IDM
 persistent_store| shiny w/aws backend
 
