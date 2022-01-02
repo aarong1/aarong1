@@ -1,19 +1,23 @@
 Aarons Repo
 ==========
-- Containing mostly code snippets for niche topics, and workflows.
+Containing mostly code snippets for niche topics, and workflows.
 
 ## RshinyHelpers
-- Check out the *RshinyHelpers* package for [_#rstats_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL8ra1gJL1AhWth_0HHVlEDKwQFnoECAIQAQ&url=https%3A%2F%2Fwww.r-project.org%2F&usg=AOvVaw1dEKAtw6XqNnWPRNby8Tne )users that accumulates helpful shiny elements and css helpers that 
+- Check out the **RshinyHelpers** package for [_#rstats_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL8ra1gJL1AhWth_0HHVlEDKwQFnoECAIQAQ&url=https%3A%2F%2Fwww.r-project.org%2F&usg=AOvVaw1dEKAtw6XqNnWPRNby8Tne) users that accumulates helpful shiny elements and css helpers that 
 I use only once or twice per shiny app.  Also contains misc data functions that I find intuitive but dont fit any tidy workflow.
 
 - It is not available on CRAN. Install using
 
-`if(!require(devtools)) install.packages('devtools')
-devtools::install_github('aarong1/RshinyHelpers')`
+```R
+  if(!require(devtools)) install.packages('devtools')
+    devtools::install_github('aarong1/RshinyHelpers')
+```
 
 and load the package into global namespace
 
-`library(Rpack)`
+```R 
+  library(Rpack)
+```
 
 
 *Due to my own mistake the git repo is miss named from the R package.* 
@@ -38,3 +42,4 @@ aarong1.github.io| gh pages site |Gatsbyjs, reactjs, html, css, js    |         
 
 
 _Aaron_
+
