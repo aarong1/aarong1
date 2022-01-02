@@ -32,14 +32,16 @@ Itemised repository
 list
 repo            | What is it            | Tech                |  Accompanying Docs                                |Access |  
 -------------   | ----------            |---------            |--------------------                               |-------    |
-RshinyHelpers   | R package             | R, shiny, js, html, css|                                                   |   |
+RshinyHelpers   | R package             | R, shiny, js, html, css|https://aarong1.github.io/RshinyHelpers/index.html                             |   |
 TCD_Ising_Model | Ferromagnetism sim    | Python              |                                                   |   |
 Geospatial      | Pc stub shapefiles    | R                   |                                                   |   |
 covid_ABM       | Agent based model     | Python              |                                                   |   |
 persistent_store| Shiny w/aws backend| R, AWS, mysql       |                                                   |   |
-epidemiology_modelling| Bayesian model  | R,stan              | https://aarong1.github.io/Epidemiology_forecast/  |   |
-aarong1.github.io| gh pages site |Gatsbyjs, reactjs, html, css, js    |                                        |
+epidemiology_model| Bayesian model  | R,stan              |https://aarong1.github.io/Epidemiology_forecast/  |   |
+aarong1.github.io| gh pages site |Gatsbyjs, reactjs, html, css, js    |                                        |https://aarong1.github.io|
+academic        |  professional site | Hugo, netlify       |  |https://quirky-mirzakhani-76fdc1.netlify.app/ |
 
 
 _Aaron_
 
+agorman2@sheffield.ac.uk
