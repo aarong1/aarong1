@@ -20,28 +20,28 @@ and attach the package into global namespace
   library(Rpack)
 ```
 
-*Due to my own mistake the git repo is miss named from the R package.* 
+*My own mistake that git repo is named differently from the R package. Soz* 
 
 ## Personal sites
 
-Not really being a developer, extensive use of static rendered sites helped for CVs and documentation.  They were used successfully, and with a low overhead, to simplify html, js interactivity and deployment to Github Pages and Netlify.
+Not really being a developer, extensive use of static rendered sites helped for web apps and documentation.  They were really easy to use with a low overhead, to both simplify html, js interactivity, and in deployment to Github Pages and Netlify.  Full credit goes to the maintainers of the Hugo [Themes](https://gohugo.io/getting-started/quick-start/)
 
-Hugo and GatsbyJS were popular options in this instance and would recommend either for use, both with a selection of pre built theming options.
+Hugo and GatsbyJS were popular options and would recommend either, both having a selection of theming options out of the box.
 
-Gatsby in particular had a steep learning curve, being based on reactjs, but inevitably had the greatest reward.
+_Gatsby_ in particular had a steep learning curve, being based on reactjs, but inevitably had the greatest reward.
 
 ## Table of Contents
 
-###Itemised repo list
+### Itemised list
 
-Repo            | What is it            | Tech                   | Access       |  
+Repo            | What is it            | Tech                   | Site       |  
 -------------   | ----------            |---------               |-----------   |
 [RshinyHelpers](https://github.com/aarong1/RshinyHelpers)| R package             | R, shiny, js, html, css|[Documentation](https://aarong1.github.io/RshinyHelpers/index.html)                            |
-TCD_Ising_Model | Ferromagnetic simulation    | Python                 |              |
+TCD Ising Model | Ferromagnetic simulation    | Python                 |              |
 Geospatial      | NI PC Shapefiles    | R                      |              |
 Covid ABM       | Agent based Epi model     | Python                 |              |   |
 Persistent Storage| Fullstack Shiny w/aws backend| R, AWS, mysql          |              |
-Epidemiology model| Bayesian Epi Model      | R,stan                 |[Documentation](https://aarong1.github.io/Epidemiology_forecast/)                              |
+Epidemiology model| Bayesian Epi Model      | R,stan                 |[Documentation](https://aarong1.github.io/Epidemiology_forecast/)    |
 aarong1.github.io| GH pages site        |Gatsbyjs, reactjs, html, css, js|[Personal Site](https://aarong1.github.io)|
 Academic        |  Professional Site    | Hugo, netlify          |  [CV](https://quirky-mirzakhani-76fdc1.netlify.app/) |
 
