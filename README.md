@@ -40,7 +40,7 @@ Repo            | What is it            | Tech                   | Site       |
 TCD Ising Model | Ferromagnetic simulation    | Python                 |              |
 Geospatial      | NI PC Shapefiles    | R                      |              |
 Covid ABM       | Agent based Epi model     | Python                 |              |   |
-Persistent Storage| Fullstack Shiny w/aws backend| R, AWS, mysql          |              |
+Persistent Storage| Fullstack Shiny w/aws backend| R, AWS, mysql          |[Site](https://aarong1.shinyapps.io/storage_app/)              |
 Epidemiology model| Bayesian Epi Model      | R,stan                 |[Documentation](https://aarong1.github.io/Epidemiology_forecast/)    |
 aarong1.github.io| GH pages site        |Gatsbyjs, reactjs, html, css, js|[Personal Site](https://aarong1.github.io)|
 Academic        |  Professional Site    | Hugo, netlify          |  [CV](https://quirky-mirzakhani-76fdc1.netlify.app/) |
