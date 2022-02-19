@@ -2,7 +2,9 @@
 <!--# ========== -->
 <p align=center >Containing code snippets for niche topics and workflows as well as formatting common design patterns into packages.</p>
 
-<img align='right' src='https://github.com/aarong1/RshinyHelpers/blob/main/man/figures/logo.png'></img>
+<!--<img align='right' src='https://github.com/aarong1/RshinyHelpers/blob/main/man/figures/logo.png'></img> -->
+<img align='right' src='https://github.com/aarong1/RshinyHelpers/blob/main/pkgdown/favicon/apple-touch-icon-180x180.png'></img>
+
 ## RshinyHelpers
 - Check out the **RshinyHelpers** package for [_#rstats_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL8ra1gJL1AhWth_0HHVlEDKwQFnoECAIQAQ&url=https%3A%2F%2Fwww.r-project.org%2F&usg=AOvVaw1dEKAtw6XqNnWPRNby8Tne) users that accumulates helpful shiny elements and css helpers that 
 I use only once or twice per shiny app.  Also contains misc data functions that I find intuitive but don't fit any tidy workflow.
