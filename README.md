@@ -1,12 +1,12 @@
 # <p align=center >Data Science Repo</p>
 <!--# ========== -->
-<p align=center >Containing code snippets for niche topics and workflows as well as formatting common design patterns into packages.</p>
+<p align=center >Containing code snippets for niche topics, workflows and common design patterns.</p>
 
 <!--<img align='right' src='https://github.com/aarong1/RshinyHelpers/blob/main/man/figures/logo.png'></img> -->
 <img align='right' src='https://github.com/aarong1/RshinyHelpers/blob/main/pkgdown/favicon/apple-touch-icon-180x180.png'></img>
 
 ## RshinyHelpers
-- Check out the **RshinyHelpers** package for [_#rstats_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL8ra1gJL1AhWth_0HHVlEDKwQFnoECAIQAQ&url=https%3A%2F%2Fwww.r-project.org%2F&usg=AOvVaw1dEKAtw6XqNnWPRNby8Tne) users that accumulates helpful shiny elements and css helpers that 
+- Check out the **RshinyHelpers** package for [_#rstats_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL8ra1gJL1AhWth_0HHVlEDKwQFnoECAIQAQ&url=https%3A%2F%2Fwww.r-project.org%2F&usg=AOvVaw1dEKAtw6XqNnWPRNby8Tne) users that accumulates shiny functions and css helpers that 
 I use only once or twice per shiny app.  Also contains misc data functions that I find intuitive but don't fit any tidy workflow.
 
 - It is not available on CRAN. Install using `devtools`
@@ -19,10 +19,8 @@ I use only once or twice per shiny app.  Also contains misc data functions that 
 and attach the package into global namespace
 
 ```R 
-  library(Rpack)
+  library(RShinyHelpers)
 ```
-
-*My own mistake that git repo is named differently from the R package. Soz* 
 
 ## Personal sites
 
@@ -30,7 +28,7 @@ Not really being a developer, extensive use of static rendered sites helped for 
 
 Hugo and GatsbyJS were popular options and would recommend either, both having a selection of theming options out of the box.
 
-_Gatsby_ in particular had a steep learning curve, being based on reactjs, but inevitably had the greatest reward.
+_Gatsby_ in particular had a steep learning curve, being based on reactjs, but had the greatest reward.
 
 ## Table of Contents
 
